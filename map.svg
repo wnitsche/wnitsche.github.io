@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+xmlns="http://www.w3.org/2000/svg"
+viewBox="26140 -27960 540 400"
+width="540"
+height="400"
+>
+
+<!-- We use coordinates in the USNG (US National Grid) //-->
+<!-- see https://apps.nationalmap.gov/viewer/ for details //-->
+<!-- But we only use the 5 digits in each direction and add a minus sign to the vertical. //-->
+<!-- For example "14S QB 26281 27804" becomes "26281 -27804" for SVG compatibility. //-->
+
+<!-- background //-->
+<rect x="26140" y="-27960" width="540" height="400" fill="gray" />
+
+
+<!-- restaurant //-->
+<circle cx="26257" cy="-27804" r="20" fill="black" />
+<circle cx="26257" cy="-27804" r="18" fill="red" />
+<circle cx="26257" cy="-27804" r="14" fill="black" />
+<circle cx="26257" cy="-27804" r="10" fill="red" />
+
+
+
+<!-- Ralroad running west to east //-->
+<path d="
+M 25919 -27972
+L 26800 -27892
+" stroke="black" stroke-width="14" fill="transparent" />
+<path d="
+M 25919 -27972
+L 26800 -27892
+" stroke="gray" stroke-width="10" fill="transparent" stroke-dasharray="30 30" />
+
+
+<!-- Black streets -->
+
+<!-- E Main St going from west to east: //-->
+<path d="
+M 25968 -27943
+L 26035 -27937
+L 26064 -27933
+L 26090 -27928
+L 26242 -27848
+L 26335 -27801
+L 26410 -27766
+L 26446 -27749
+L 26496 -27733
+L 26504 -27761
+L 26512 -27779
+L 26524 -27800
+L 26542 -27823
+L 26563 -27842
+L 26591 -27865
+L 26623 -27886
+L 26658 -27905
+L 26743 -27950
+" stroke="black" stroke-width="16" fill="transparent" />
+
+<!-- E Davis St going from west to east: //-->
+<path d="
+M 25955 -27858
+L 25989 -27850
+L 26229 -27786
+L 26326 -27756
+L 26373 -27743
+L 26438 -27729
+L 26465 -27726
+L 26492 -27718
+" stroke="black" stroke-width="16" fill="transparent" />
+
+<!-- Intersection //-->
+<path d="
+M 26492 -27718
+L 26496 -27733
+" stroke="black" stroke-width="16" fill="transparent" />
+
+<!-- northern part of E Glen St starting at norhtern intersection going from west to east //-->
+<path d="
+M 26496 -27733
+L 26742 -27658
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- southern part of E Glen St starting at southern intersection going from west to east //-->
+<path d="
+M 26492 -27718
+L 26613 -27680
+L 26752 -27638
+" stroke="black" stroke-width="12" fill="transparent" />
+
+<!-- Pioneer Rd starting at southern intersection going north to south //-->
+<path d="
+M 26492 -27718
+L 26455 -27573
+L 26440 -27542
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- Savannah St going from south to north //-->
+<path d="
+M 26613 -27680
+L 26625 -27719
+L 26631 -27729
+L 26732 -27804
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- E Scyne Rd starting from E Main St and going from west to east //-->
+<path d="
+M 26090 -27928
+L 26107 -27930
+L 26823 -27866
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- Municipal going from south to north //-->
+<path d="
+M 26090 -27928
+L 26097 -27975
+L 26098 -28084
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- Lindo Dr running from north to south //-->
+<path d="
+M 26242 -27848
+L 26229 -27786
+L 26211 -27724
+L 26202 -27682
+L 26205 -27591
+L 26206 -27557
+" stroke="black" stroke-width="12" fill="transparent" />
+
+
+<!-- orange streets //-->
+
+<!-- E Main St going from west to east: //-->
+<path d="
+M 25968 -27943
+L 26035 -27937
+L 26064 -27933
+L 26090 -27928
+L 26242 -27848
+L 26335 -27801
+L 26410 -27766
+L 26446 -27749
+L 26496 -27733
+L 26504 -27761
+L 26512 -27779
+L 26524 -27800
+L 26542 -27823
+L 26563 -27842
+L 26591 -27865
+L 26623 -27886
+L 26658 -27905
+L 26743 -27950
+" stroke="orange" stroke-width="14" fill="transparent" />
+
+<!-- E Davis St going from west to east: //-->
+<path d="
+M 25955 -27858
+L 25989 -27850
+L 26229 -27786
+L 26326 -27756
+L 26373 -27743
+L 26438 -27729
+L 26465 -27726
+L 26492 -27718
+" stroke="orange" stroke-width="14" fill="transparent" />
+
+<!-- Intersection //-->
+<path d="
+M 26492 -27718
+L 26496 -27733
+" stroke="orange" stroke-width="14" fill="transparent" />
+
+<!-- northern part of E Glen St starting at norhtern intersection going from west to east //-->
+<path d="
+M 26496 -27733
+L 26742 -27658
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- southern part of E Glen St starting at southern intersection going from west to east //-->
+<path d="
+M 26492 -27718
+L 26613 -27680
+L 26752 -27638
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+<!-- Pioneer Rd starting at southern intersection going north to south //-->
+<path d="
+M 26492 -27718
+L 26455 -27573
+L 26440 -27542
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- Savannah St going from south to north //-->
+<path d="
+M 26613 -27680
+L 26625 -27719
+L 26631 -27729
+L 26732 -27804
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- E Scyne Rd starting from E Main St and going from west to east //-->
+<path d="
+M 26090 -27928
+L 26107 -27930
+L 26823 -27866
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- Municipal going from south to north //-->
+<path d="
+M 26090 -27928
+L 26097 -27975
+L 26098 -28084
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- Lindo Dr running from north to south //-->
+<path d="
+M 26242 -27848
+L 26229 -27786
+L 26211 -27724
+L 26202 -27682
+L 26205 -27591
+L 26206 -27557
+" stroke="orange" stroke-width="10" fill="transparent" />
+
+
+<!-- Street names //-->
+
+<text fill="black" font-size="35" transform="translate(26255 -27735) rotate(15)">E Davis St</text>
+
+<text fill="black" font-size="35" transform="translate(26300 -27831) rotate(26)">E Main St</text>
+
+<text fill="black" font-size="35" transform="translate(26480 -27757) rotate(-55)">E Main St</text>
+
+<text fill="black" font-size="35" transform="translate(26435 -27561) rotate(-74)">Pioneer Rd</text>
+
+<text fill="black" font-size="35" transform="translate(26500 -27681) rotate(17)">E Glen Blvd</text>
+
+<text fill="black" font-size="35" transform="translate(26175 -27640) rotate(-74)">Lindo Dr</text>
+
+<text fill="black" font-size="35" transform="translate(26300 -27879) rotate(6)">E Scyene Rd</text>
+
+
+
+</svg>
